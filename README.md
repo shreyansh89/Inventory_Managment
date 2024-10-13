@@ -7,13 +7,13 @@ Bulk CSV Import/Export: Export all inventory data to CSV and import multiple ite
 Low Stock Alerts: Notify when inventory levels fall below a specified threshold.
 
 ## Technologies Used
-Node.js
-Express.js
-MongoDB
-Mongoose
-Multer
-fast-csv
-csv-parser
+Node.js 
+Express.js 
+MongoDB 
+Mongoose 
+Multer 
+fast-csv 
+csv-parser 
 
 ## Getting Started  
 
